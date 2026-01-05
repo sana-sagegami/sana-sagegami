@@ -1,45 +1,51 @@
 ## Sana
+[![X](https://img.shields.io/badge/X-Post-black?logo=x)](https://x.com/san_01237)
 
-## 📚 作品紹介
+
+## 作品紹介
 
 ### Librarium
 <p align="center">
-  <img src="" alt="Librarium スクリーンショット" width="600">
+  <img src="images/1.png" alt="Librarium スクリーンショット" width="70">
+  <img src="images/2.png" alt="Librarium スクリーンショット" width="70">
+  <img src="images/3.png" alt="Librarium スクリーンショット" width="70">
+  <img src="images/4.png" alt="Librarium スクリーンショット" width="70">
 </p>
 
 **概要:**  
-[作品の概要を2-3行で簡潔に記載]
+バーコードで書籍を読み取り、簡単に登録・貸し借りでき、スキルのタグ付けや技術書の相性診断などの機能を備えた書籍管理アプリ
 
 **開発担当:**  
-- フロントエンド: [使用技術や実装内容]
-- バックエンド: [使用技術や実装内容]
-- その他: [インフラ、デザインなど]
+フロントエンド/デザイン
 
-**受賞実績:**  
-🏆 [賞の名称] - [主催団体/年]  
-🏆 [賞の名称] - [主催団体/年]
+**実績:**  
+🏆 シスハック - [Nextend賞]  
+🏆 技育博 - [2025/vol.3]
 
 **リポジトリ:**  
-🔗 [https://github.com/username/librarium](リンク)
+🔗 [https://github.com/nrak126/librarium](リンク)
 
 ---
 
 ### Yo haku
 <p align="center">
-  <img src="画像のURL" alt="Yo haku スクリーンショット" width="600">
+  <img src="images/yohaku_thumbnail1 (1).png" alt="Yo haku スクリーンショット" width="300">
+</p>
+<p align="center">
+ <img src="images/IMG_8828.png" width="100">
+  <img src="images/myPage.png" alt="Yo haku スクリーンショット" width="100">
 </p>
 
 **概要:**  
-[作品の概要を2-3行で簡潔に記載]
+自分やフレンドの空き時間を交換・共有し、カレンダーやチャット機能で予定調整をスムーズに行えるアプリ
 
 **開発担当:**  
-- フロントエンド: [使用技術や実装内容]
-- バックエンド: [使用技術や実装内容]
-- その他: [インフラ、デザインなど]
+フロントエンド
+
 
 **受賞実績:**  
-🏆 [賞の名称] - [主催団体/年]  
-🏆 [賞の名称] - [主催団体/年]
+🏆 最優秀賞 - 技育キャンプvol.4  
+🏆 サイバーエージェント賞 - 技育展
 
 **リポジトリ:**  
-🔗 [https://github.com/username/yo-haku](リンク)
+🔗 [https://github.com/yohaku-space](リンク)
