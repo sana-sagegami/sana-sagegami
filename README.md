@@ -6,10 +6,10 @@
 
 ### Librarium
 <p align="center">
-  <img src="images/1.png" alt="Librarium スクリーンショット" width="70">
-  <img src="images/2.png" alt="Librarium スクリーンショット" width="70">
-  <img src="images/3.png" alt="Librarium スクリーンショット" width="70">
-  <img src="images/4.png" alt="Librarium スクリーンショット" width="70">
+  <img src="images/1.png" alt="Librarium スクリーンショット" width="100">
+  <img src="images/2.png" alt="Librarium スクリーンショット" width="100">
+  <img src="images/3.png" alt="Librarium スクリーンショット" width="100">
+  <img src="images/4.png" alt="Librarium スクリーンショット" width="100">
 </p>
 
 **概要:**  
