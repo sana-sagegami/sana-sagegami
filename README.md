@@ -23,7 +23,7 @@
 🏆 技育博 - [2025/vol.3]
 
 **リポジトリ:**  
-🔗 [https://github.com/nrak126/librarium](リンク)
+🔗 [https://github.com/nrak126/librarium](https://github.com/nrak126/librarium)
 
 ---
 
@@ -48,5 +48,5 @@
 🏆 サイバーエージェント賞 - 技育展
 
 **リポジトリ:**  
-🔗 [https://github.com/yohaku-space](リンク)
+🔗 [https://github.com/yohaku-space](https://github.com/yohaku-space)
 ※ リリース予定のため、非公開設定にしております。
