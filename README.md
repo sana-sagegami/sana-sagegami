@@ -22,6 +22,10 @@
 🏆 シスハック - [Nextend賞]  
 🏆 技育博 - [2025/vol.3]
 
+
+**スライド:**  
+🔗 [Canva](https://canva.link/2bhljsdl35abjwz)
+
 **リポジトリ:**  
 🔗 [https://github.com/nrak126/librarium](https://github.com/nrak126/librarium)
 
@@ -46,6 +50,11 @@
 **受賞実績:**  
 🏆 最優秀賞 - 技育キャンプvol.4  
 🏆 サイバーエージェント賞 - 技育展
+
+
+**スライド:**  
+🔗 [figma](https://www.figma.com/proto/IrMZWDYSkS4UhlO5xqVati/Yo-haku?node-id=9029-56360&p=f&t=n9VlAUV5BMOW5DB5-1&scaling=contain&content-scaling=fixed&page-id=9029%3A56359)
+
 
 **リポジトリ:**  
 🔗 [https://github.com/yohaku-space](https://github.com/yohaku-space)
